@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/Brief_%20MLops/Part_1/mlruns/293403612028695475/ae31ecf7c79d45ca8bf728de0b368a38/artifacts
+end_time: 1676292827588
+entry_point_name: ''
+experiment_id: '293403612028695475'
+lifecycle_stage: active
+run_id: ae31ecf7c79d45ca8bf728de0b368a38
+run_name: classification
+run_uuid: ae31ecf7c79d45ca8bf728de0b368a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676292827529
+status: 3
+tags: []
+user_id: utilisateur

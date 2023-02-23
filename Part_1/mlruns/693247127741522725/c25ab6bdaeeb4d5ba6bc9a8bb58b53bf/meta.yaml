@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/Brief_%20MLops/Part_1/mlruns/693247127741522725/c25ab6bdaeeb4d5ba6bc9a8bb58b53bf/artifacts
+end_time: 1676292829620
+entry_point_name: ''
+experiment_id: '693247127741522725'
+lifecycle_stage: active
+run_id: c25ab6bdaeeb4d5ba6bc9a8bb58b53bf
+run_name: SVM
+run_uuid: c25ab6bdaeeb4d5ba6bc9a8bb58b53bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676292829322
+status: 3
+tags: []
+user_id: utilisateur

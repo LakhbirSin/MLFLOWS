@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/Brief_%20MLops/Part_1/mlruns/693247127741522725/5b78ce7d54e84f65b5450dfe70cdca8a/artifacts
+end_time: 1676292830099
+entry_point_name: ''
+experiment_id: '693247127741522725'
+lifecycle_stage: active
+run_id: 5b78ce7d54e84f65b5450dfe70cdca8a
+run_name: My_Conditional_Model
+run_uuid: 5b78ce7d54e84f65b5450dfe70cdca8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676292829653
+status: 3
+tags: []
+user_id: utilisateur

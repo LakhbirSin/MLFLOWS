@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/Brief_%20MLops/Part_1/mlruns/0/a8b9ea5729774ddf84b24d1c2fe7c133/artifacts
+end_time: 1675945591268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8b9ea5729774ddf84b24d1c2fe7c133
+run_name: Modele_Aleatoire avec csv
+run_uuid: a8b9ea5729774ddf84b24d1c2fe7c133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675945591221
+status: 3
+tags: []
+user_id: utilisateur

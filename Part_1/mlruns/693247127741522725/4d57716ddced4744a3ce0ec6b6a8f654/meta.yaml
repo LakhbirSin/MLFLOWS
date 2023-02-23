@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/Brief_%20MLops/Part_1/mlruns/693247127741522725/4d57716ddced4744a3ce0ec6b6a8f654/artifacts
+end_time: 1676292829017
+entry_point_name: ''
+experiment_id: '693247127741522725'
+lifecycle_stage: active
+run_id: 4d57716ddced4744a3ce0ec6b6a8f654
+run_name: DecisionTreeClassifier
+run_uuid: 4d57716ddced4744a3ce0ec6b6a8f654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676292828735
+status: 3
+tags: []
+user_id: utilisateur
